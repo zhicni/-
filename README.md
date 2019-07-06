@@ -51,9 +51,9 @@ void Morse::w_space()
 ## 0704
 
 ### car
-![car](https://github.com/zhicni/arduino_learn/car/car.png)
+![](https://github.com/zhicni/arduino_learn/blob/master/car/car.png)
 ### cd4511
-
+![](https://github.com/zhicni/arduino_learn/blob/master/cd4511/cd4511.png)
 ## 0705
 
 ### Morse_new
